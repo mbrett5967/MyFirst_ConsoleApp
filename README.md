@@ -1,3 +1,6 @@
+Check out my first console app [HERE]
+
+
 **-  Brief description:**
 > This a console based calculator, based on an assignment given to me through my course. I have however, continued development,
  with the aim of experimenting and practicing the skills I have learned.
