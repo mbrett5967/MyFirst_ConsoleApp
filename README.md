@@ -1,4 +1,4 @@
-Check out my first console app [(Assignments/Calculator_app.cs)]
+Check out my first console app [Assignments/Calculator_app.cs]
 
 
 **-  Brief description:**
