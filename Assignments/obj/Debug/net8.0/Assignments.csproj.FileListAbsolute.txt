@@ -1,0 +1,14 @@
+/Users/matthewdemetriades/Desktop/C# Projects/Assignments/Assignments/bin/Debug/net8.0/Assignments
+/Users/matthewdemetriades/Desktop/C# Projects/Assignments/Assignments/bin/Debug/net8.0/Assignments.deps.json
+/Users/matthewdemetriades/Desktop/C# Projects/Assignments/Assignments/bin/Debug/net8.0/Assignments.runtimeconfig.json
+/Users/matthewdemetriades/Desktop/C# Projects/Assignments/Assignments/bin/Debug/net8.0/Assignments.dll
+/Users/matthewdemetriades/Desktop/C# Projects/Assignments/Assignments/bin/Debug/net8.0/Assignments.pdb
+/Users/matthewdemetriades/Desktop/C# Projects/Assignments/Assignments/obj/Debug/net8.0/Assignments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewdemetriades/Desktop/C# Projects/Assignments/Assignments/obj/Debug/net8.0/Assignments.AssemblyInfoInputs.cache
+/Users/matthewdemetriades/Desktop/C# Projects/Assignments/Assignments/obj/Debug/net8.0/Assignments.AssemblyInfo.cs
+/Users/matthewdemetriades/Desktop/C# Projects/Assignments/Assignments/obj/Debug/net8.0/Assignments.csproj.CoreCompileInputs.cache
+/Users/matthewdemetriades/Desktop/C# Projects/Assignments/Assignments/obj/Debug/net8.0/Assignments.dll
+/Users/matthewdemetriades/Desktop/C# Projects/Assignments/Assignments/obj/Debug/net8.0/refint/Assignments.dll
+/Users/matthewdemetriades/Desktop/C# Projects/Assignments/Assignments/obj/Debug/net8.0/Assignments.pdb
+/Users/matthewdemetriades/Desktop/C# Projects/Assignments/Assignments/obj/Debug/net8.0/Assignments.genruntimeconfig.cache
+/Users/matthewdemetriades/Desktop/C# Projects/Assignments/Assignments/obj/Debug/net8.0/ref/Assignments.dll
