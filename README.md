@@ -1,4 +1,4 @@
-Check out my first console app [Assignments/Calculator_app.cs]
+Check out my first console app [(https://github.com/mbrett5967/MyFirst_ConsoleApp/blob/main/Assignments/Calculator_app.cs)]
 
 
 **-  Brief description:**
