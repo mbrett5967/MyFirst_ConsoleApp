@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Assignments
-build_property.ProjectDir = /Users/matthewdemetriades/Desktop/C# Projects/Assignments/Assignments/
+build_property.ProjectDir = /Users/matthewdemetriades/Desktop/C# Projects/Desktop apps/Assignments/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

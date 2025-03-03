@@ -29,6 +29,22 @@ static void Main ()
  Console.WriteLine ("Please enter your first number: ");
  var userInput = Console.ReadLine();
 
+   // *** Handling empty string error ***
+
+if (string.IsNullOrWhiteSpace(userInput))
+{
+    Console.WriteLine("Error! Please enter a valid number.");
+    return;
+}
+
+int number1;
+if (!int.TryParse(userInput, out number1))
+{
+    Console.WriteLine("Error! That is not a valid number.");
+    return;
+}
+
+
 
  // *** Handling null reference error ***
 
@@ -37,7 +53,13 @@ static void Main ()
     Console.WriteLine ("Error! Please enter a valid number");
     return;
 }
- int number_1 = int.Parse (userInput);          
+ int number_1;
+if (!int.TryParse(userInput, out number_1))
+{
+    Console.WriteLine("Error! That is not a valid number.");
+    return;
+}
+        
 
 
 
